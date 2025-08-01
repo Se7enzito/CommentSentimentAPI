@@ -1,0 +1,7 @@
+tweepy==4.14.0
+nltk==3.8.1
+deep-translator==1.11.4
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+wordcloud==1.9.3
