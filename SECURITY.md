@@ -2,7 +2,7 @@
 
 Nós levamos a segurança deste projeto a sério.
 
-Se você identificar alguma vulnerabilidade, por favor, envie um e-mail para **seuemail@dominio.com** com os detalhes técnicos.
+Se você identificar alguma vulnerabilidade, por favor, envie um e-mail para **resolveaitech@gmail.com** com os detalhes técnicos.
 
 **Procedimento:**
 
@@ -19,13 +19,11 @@ Pedimos que não divulgue publicamente detalhes da vulnerabilidade antes da publ
 
 ---
 
-
-
 # Security Policy
 
 We take the security of this project seriously.
 
-If you discover a vulnerability, please report it by email to **seuemail@dominio.com** with technical details.
+If you discover a vulnerability, please report it by email to **resolveaitech@gmail.com** with technical details.
 
 **Procedure:**
 

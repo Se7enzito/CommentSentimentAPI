@@ -1,0 +1,16 @@
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar variáveis de ambiente e configs sensíveis
+.env
+*.env
+config.json
+*.key
+*.pem
+*.crt
